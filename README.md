@@ -2,7 +2,7 @@
 
 FileStore is a simple file managging application
 
-##Technologies
+#Technologies
 
 01- Google Cloud Firestore for the backend database.
 02- Google Firbase Authentication.
